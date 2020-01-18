@@ -1,0 +1,2 @@
+# gitthroughvagrant
+install gitlab
